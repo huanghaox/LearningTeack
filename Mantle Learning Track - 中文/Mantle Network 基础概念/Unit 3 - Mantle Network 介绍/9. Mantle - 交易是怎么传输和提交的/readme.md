@@ -18,7 +18,7 @@
 
 总之，我们可以看到，数据传输层（DTL）在 Mantle 网络中扮演着极其重要的角色。它不仅确保了交易数据在网络中的及时同步，还保证了整个网络可以高效和一致地运作。对于 Alice 和其他用户来说，这意味着他们的交易能够在一个安全、可靠且高效的环境中得到处理。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/f1268ba8-91b0-4992-b7b6-0e6a5af1e431/Untitled.png)
+![Untitled](./img/9-1.png)
 
 ### **提交交易**
 
@@ -44,7 +44,7 @@ Mantle 中用于提交区块交易到一层网络的组件叫做 Batch Submitter
 
 总结来说，Batch Submitter 在 Mantle 网络中扮演着关键角色，它通过 TSS 的提前验证确保了交易数据的准确性，再通过将数据发布到 Layer 1 的 SCC 合约，提高了整个区块链系统的透明度和可靠性。对于像 Alice 这样的用户来说，这意味着她的转账操作不仅在 Mantle 上得到快速处理，而且在整个以太坊网络中都得到了充分的确认和记录。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/2d64a44c-09c5-4504-9c5b-fa6e9bcc2f54/Untitled.png)
+![Untitled](./img/9-2.png)
 
 ### 下一节
 

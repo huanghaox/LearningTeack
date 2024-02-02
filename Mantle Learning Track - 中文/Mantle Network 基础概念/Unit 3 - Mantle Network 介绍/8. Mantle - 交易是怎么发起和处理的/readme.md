@@ -18,7 +18,7 @@
     - 一旦确认余额充足，Alice 点击发送。她的钱包软件（客户端）会通过 RPC 向 Mantle 网络中的节点发送交易请求。这个请求包括了交易的具体细节，如收款人地址、转账金额等。
     - Mantle 节点接收到 Alice 的交易请求后，会开始处理这笔交易，这标志着 Alice 向 Bob 转账的过程正式开始。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/dd6c60a6-4bb4-4a77-9b30-6a12bd00845f/Untitled.png)
+![Untitled](./img/8-1.png)
 
 ### **处理交易**
 
@@ -38,7 +38,7 @@
 
 综上，Sequencer 在 Mantle 网络中不仅提高了交易处理的效率，还通过打包交易降低了单个用户的交易费用，使得整个区块链网络更加经济高效。对于像 Alice 这样的普通用户来说，这种方法不仅加速了她的转账处理，还降低了她的成本负担，提高了区块链技术的实用性。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/3408f619-8bf1-497c-9e68-cc0bdfa96134/Untitled.png)
+![Untitled](./img/8-2.png)
 
 ### 下一节
 

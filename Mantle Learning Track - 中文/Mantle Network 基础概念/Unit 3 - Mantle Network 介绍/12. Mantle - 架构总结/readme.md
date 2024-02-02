@@ -29,7 +29,7 @@ Alice 的 Mantle 转账之旅展示了 Mantle 如何在保证交易速度和降�
 
 通过探索 Alice 在 Mantle 区块链上的转账过程，我们不仅深入理解了 Mantle 的高效和安全性，还看到了如何在保持交易速度和降低成本的同时，确保交易的安全性和透明度。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/1c5aab60-775c-4ebc-96f3-6ca43a56aeeb/Untitled.png)
+![Untitled](./img/12-1.png)
 
 非常感谢您参与并完成本次关于 Mantle 的课程。我们衷心希望这次深入学习 Mantle 的旅程不仅为您提供了有价值的区块链知识，而且能够激发您对区块链技术的持续兴趣。
 区块链作为一个不断发展和变革的领域，充满了新的挑战和机遇。我们希望您能够保持好奇心、继续探索，期待在未来的学习之旅中再次与您相遇！

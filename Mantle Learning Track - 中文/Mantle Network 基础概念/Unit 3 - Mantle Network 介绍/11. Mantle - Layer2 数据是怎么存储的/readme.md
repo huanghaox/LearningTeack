@@ -26,7 +26,7 @@
 
 总结来说，EigenDA 在 Mantle 网络中扮演着数据可用性层至关重要的角色。它不仅确保了所有交易数据的安全存储和快速访问，还通过其先进的技术极大地提高了数据处理效率和系统的整体性能。对于像 Alice 这样的用户来说，EigenDA 的存在使得她的交易体验更加顺畅，安全和透明。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/860d5697-ea5a-4f33-8b94-bd0b48e4a76d/Untitled.png)
+![Untitled](./img/11-1.png)
 
 ### 下一节
 

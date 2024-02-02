@@ -27,7 +27,7 @@
         - 这种方法的优点在于，即使其中一些参与者不诚信，只要有足够多的诚实参与者，就能正确验证 Alice的交易。
         - 因为完整的密钥不只是掌握在一个人手中，所以就没有单点故障的风险，这使得整个系统更加去中心化，更加安全和可靠。
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/0c41f190-5590-4c58-b5b1-05000761f030/Untitled.png)
+    ![Untitled](./img/10-1.png)
     
 
 ### **SCC（State Commitment Chain）**
@@ -49,7 +49,7 @@
 
 总之，通过 SCC，Mantle 网络不仅在 Layer 2 上有效处理了用户的交易，还在整个以太坊网络中得到了确认和记录，大大增强了用户对整个交易过程的信任。SCC 的存在使得整个系统对于用户如 Alice 来说，是更加可靠、透明和安全。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/02a3b2e7-5171-40bc-a7ad-5e2ee3eb06fc/Untitled.png)
+![Untitled](./img/10-2.png)
 
 ### **StateRootData**
 
@@ -66,7 +66,7 @@
 
 总结来说，Batch Submitter 在 Mantle 网络中扮演着关键角色，它通过 TSS 的提前验证确保了交易数据的准确性，再通过将数据发布到 Layer 1 的 SCC 合约，提高了整个区块链系统的透明度和可靠性。对于像 Alice 这样的用户来说，这意味着她的转账操作不仅在 Mantle 上得到快速处理，而且在整个以太坊网络中都得到了充分的确认和记录。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/2d64a44c-09c5-4504-9c5b-fa6e9bcc2f54/Untitled.png)
+![Untitled](./img/10-3.png)
 
 ### **Verifier Node**
 
@@ -88,7 +88,7 @@ Alice 的交易经历了 Mantle 网络中的多个重要阶段，打包、验证
 
 综上，Verifier Node 在 Mantle 网络中扮演着至关重要的角色，不仅补充了 TSS 的功能，还为整个系统提供了另一层的数据验证和安全保障。对于普通用户如 Alice 来说，这意味着她的交易不仅快速，还非常安全可靠。通过这种有效的验证机制，Mantle 网络能够在保持高效率的同时，确保了数据的完整性和安全性。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/9c794b52-bf2e-4dc6-ba1b-dd21808510f7/Untitled.png)
+![Untitled](./img/10-4.png)
 
 ### 下一节
 

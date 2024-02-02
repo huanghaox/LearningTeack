@@ -10,7 +10,7 @@ Mantle 团队在实际做设计的时候，考虑到传统 OP Rollups 方案的�
 
 区块链的模块化架构是一种新型的区块链架构，在这种结构中，区块链的主要功能（比如执行交易、达成共识、结算和数据存储）被分散到不同的专业层级上。这就像是在一个大公司里，不同的部门各司其职，负责不同的业务一样。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/40ad2819-285a-4795-a80f-f6a1f2a4d3bf/6d907b62-bbff-4619-8038-2e64cf45a3aa/Untitled.png)
+![Untitled](./img/7-1.png)
 
 ### 模块化的区块链有什么优势呢？
 
