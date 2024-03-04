@@ -1,4 +1,1 @@
 # LearningTeack
-```solidity
-
-```
